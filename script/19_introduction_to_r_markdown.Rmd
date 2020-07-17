@@ -1,0 +1,38 @@
+---
+title: "Introduction to R Markdown"
+author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+date: ""
+output: 
+ html_document:
+  theme: flatly
+  toc: true
+  toc_float: true
+---
+
+# Overview
+
+In this workshop we will explore how we can use R Markdown to generate reports that contain a blend of narrative, code, and the output of that code. 
+
+In the following video I will give you a brief overview of how you can turn a script you have written in R into an R Markdown document that you can share with others.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/HjwspcOlyJ4" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+There are many resources available to help you explore the full range of possibilites in R Markdown. A good starting point is the "R Markdown: The Definitive Guide" by Yihui Xie, J. J. Allaire, and Garrett Grolemund. Just click on the image below to be taken to the online version of the book.
+
+[![R Markdown Definitive Guide](../images/r_markdown_guide.png)](https://bookdown.org/yihui/rmarkdown/)
+
+You may also be interested in the "R Markdown Cookbook" by Yihui Xie, Christophe Dervieux, and Emily Riederer. Again, just click on the image below to be taken to the online version of the book.
+
+[![R Markdown Cookbook](../images/r_markdown_cookbook.png)](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+## Improve this Workshop
+
+If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/19_introduction_to_r_markdown). 
