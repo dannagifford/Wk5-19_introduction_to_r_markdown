@@ -11,27 +11,43 @@ output:
 
 # Overview
 
-In this workshop we will explore how we can use R Markdown to generate reports that contain a blend of narrative, code, and the output of that code. 
+In this workshop we will briefly examine how we can use R Markdown to generate reports that contain a blend of narrative, code, and the output of that code. 
 
-In the following video I will give you a brief overview of how you can turn a script you have written in R into an R Markdown document that you can share with others.
+In the following video I will give you a brief overview of how you can turn a script you have written in R into an R Markdown document that you can 'knit' and share with others.
 
 &nbsp;&nbsp;
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/HjwspcOlyJ4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/yuQXz9z-N6U" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
 &nbsp;&nbsp;
 
-There are many resources available to help you explore the full range of possibilites in R Markdown. A good starting point is the "R Markdown: The Definitive Guide" by Yihui Xie, J. J. Allaire, and Garrett Grolemund. Just click on the image below to be taken to the online version of the book.
+There are many resources available to help you explore the full range of possibilities in R Markdown. A good starting point is the "R Markdown: The Definitive Guide" by Yihui Xie, J. J. Allaire, and Garrett Grolemund. Just click on the image below to be taken to the online version of the book.
 
-[![R Markdown Definitive Guide](../images/r_markdown_guide.png)](https://bookdown.org/yihui/rmarkdown/)
+&nbsp;&nbsp;
+
+<center>
+
+[![R Markdown Definitive Guide](../images/r_markdown_guide.png){width=50%}](https://bookdown.org/yihui/rmarkdown/)
+
+</center>
+
+&nbsp;&nbsp;
 
 You may also be interested in the "R Markdown Cookbook" by Yihui Xie, Christophe Dervieux, and Emily Riederer. Again, just click on the image below to be taken to the online version of the book.
 
-[![R Markdown Cookbook](../images/r_markdown_cookbook.png)](https://bookdown.org/yihui/rmarkdown-cookbook/)
+&nbsp;&nbsp;
+
+<center>
+
+[![R Markdown Cookbook](../images/r_markdown_cookbook.png){width=70%}](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+</center>
+
+&nbsp;&nbsp;
 
 ## Improve this Workshop
 
