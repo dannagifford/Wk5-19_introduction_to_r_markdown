@@ -49,6 +49,14 @@ You may also be interested in the "R Markdown Cookbook" by Yihui Xie, Christophe
 
 &nbsp;&nbsp;
 
+# Your Challenge
+
+Take one of the scripts that you've already written - maybe one of the visualisation scripts that you've developed - and use it to create an R Markdown document. Add the code from the script to a new R Markdown document - and add the code in meaninful small chunks - you might have a code chunk that loads your libraries, a chunk that reads in your data, another chunk for wrangling your data, and then separate chunks for each of the visualisations you have written. Before each small chunk of code, add some narrative explaining what the following code chunk does. Tweak the message and warning parameters at the start of each code chunk so that warnings and messages aren't displayed in the final R Markdown generated `.html` file. 
+
+Remember that when you're knitting an R Markdown document it is working in its own R session - and so can't access anything in the main R session in which you've been writing the R Markdown document itself. This means that your R Markdown must load the libraries needed and read in the data within the document itself. 
+
+All of the workshops in this unit have been written in R Markdown - so if you want to see how I've done that, you can click on the `Improve this Workshop` link at the bottom of any of the workshops and then take a look at the .Rmd file that will be in the script folder on the associated GitHub repo.
+
 ## Improve this Workshop
 
 If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/19_introduction_to_r_markdown). 
