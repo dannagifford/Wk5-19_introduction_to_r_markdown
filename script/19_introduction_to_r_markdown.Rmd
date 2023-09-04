@@ -1,6 +1,8 @@
 ---
 title: "Introduction to R Markdown"
-author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+author:
+    - Dr Danna Gifford, Unit coordinator (2023), danna.gifford@manchester.ac.uk
+    - Prof Andrew Stewart, Original author (2020-2022), drandrewjstewart@gmail.com
 date: ""
 output: 
  html_document:
@@ -13,7 +15,7 @@ output:
 
 In this workshop we will briefly examine how we can use R Markdown to generate reports that contain a blend of narrative, code, and the output of that code. 
 
-In the following video I will give you a brief overview of how you can turn a script you have written in R into an R Markdown document that you can 'knit' and share with others.
+The following video will give you a brief overview of how you can turn a script you have written in R into an R Markdown document that you can 'knit' and share with others.
 
 &nbsp;&nbsp;
 
@@ -55,7 +57,7 @@ Take one of the scripts that you've already written - maybe one of the visualisa
 
 Remember that when you're knitting an R Markdown document it is working in its own R session - and so can't access anything in the main R session in which you've been writing the R Markdown document itself. This means that your R Markdown must load the libraries needed and read in the data within the document itself. 
 
-All of the workshops in this unit have been written in R Markdown - so if you want to see how I've done that, you can click on the `Improve this Workshop` link at the bottom of any of the workshops and then take a look at the .Rmd file that will be in the script folder on the associated GitHub repo.
+All of the workshops in this unit have been written in R Markdown - so if you want to see how to do that, you can click on the `Improve this Workshop` link at the bottom of any of the workshops and then take a look at the .Rmd file that will be in the script folder on the associated GitHub repo.
 
 ## Improve this Workshop
 
