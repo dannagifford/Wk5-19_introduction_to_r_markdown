@@ -1,1 +1,1 @@
-# 19_introduction_to_r_markdown
+# Workshop on Introduction to RMarkdown
